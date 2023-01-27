@@ -1,1 +1,1 @@
-Creates PDF file from Excel file
+Creates PDF file from Excel invoice
